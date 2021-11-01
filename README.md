@@ -1,2 +1,2 @@
 # BookBasement
-This is the project in the Tntroduction to Software Engineering course
+This is the project in the Introduction to Software Engineering course
